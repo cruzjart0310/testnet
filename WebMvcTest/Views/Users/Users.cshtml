@@ -1,0 +1,13 @@
+﻿@model IEnumerable< Entidad.User.User>
+                        
+
+@{
+    ViewBag.Title = "Users";
+}
+
+<h2>Users</h2>
+
+@foreach (var n in Model)
+{
+    <li>@Html.DisplayFor(model => n.Id_)</li>
+}

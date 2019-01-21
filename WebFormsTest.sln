@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebFormsTest", "http://localhost:4388", "{CF3506C9-3996-4066-ACEA-BAF7CF43F55D}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{d6b4081f-1c03-4221-a774-f338d30882cb}|Negocio.dll;{cc19c5d0-eb99-4f12-9b20-07b916d33978}|Entidad.dll;{D6033C8C-317F-4A67-B432-2C47C50132D6}|Datos.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4388"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Resáldo de usb\WebFormsTest\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4388\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4388"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Resáldo de usb\WebFormsTest\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4388\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\Resáldo de usb\WebFormsTest\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidad", "Entidad\Entidad.csproj", "{CC19C5D0-EB99-4F12-9B20-07B916D33978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{D6033C8C-317F-4A67-B432-2C47C50132D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{D6B4081F-1C03-4221-A774-F338D30882CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMvcTest", "WebMvcTest\WebMvcTest.csproj", "{E54605DF-CFFA-4C91-AF6E-A7EA31E4D5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3506C9-3996-4066-ACEA-BAF7CF43F55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3506C9-3996-4066-ACEA-BAF7CF43F55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3506C9-3996-4066-ACEA-BAF7CF43F55D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3506C9-3996-4066-ACEA-BAF7CF43F55D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CC19C5D0-EB99-4F12-9B20-07B916D33978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC19C5D0-EB99-4F12-9B20-07B916D33978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC19C5D0-EB99-4F12-9B20-07B916D33978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC19C5D0-EB99-4F12-9B20-07B916D33978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6033C8C-317F-4A67-B432-2C47C50132D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6033C8C-317F-4A67-B432-2C47C50132D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6033C8C-317F-4A67-B432-2C47C50132D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6033C8C-317F-4A67-B432-2C47C50132D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B4081F-1C03-4221-A774-F338D30882CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B4081F-1C03-4221-A774-F338D30882CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B4081F-1C03-4221-A774-F338D30882CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B4081F-1C03-4221-A774-F338D30882CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54605DF-CFFA-4C91-AF6E-A7EA31E4D5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54605DF-CFFA-4C91-AF6E-A7EA31E4D5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54605DF-CFFA-4C91-AF6E-A7EA31E4D5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54605DF-CFFA-4C91-AF6E-A7EA31E4D5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

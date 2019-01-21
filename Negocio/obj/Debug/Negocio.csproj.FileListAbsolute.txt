@@ -1,0 +1,9 @@
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\bin\Debug\Negocio.dll
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\bin\Debug\Datos.dll
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\bin\Debug\Entidad.dll
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\bin\Debug\Datos.pdb
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\obj\Debug\Negocio.dll
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Negocio\obj\Debug\Negocio.pdb

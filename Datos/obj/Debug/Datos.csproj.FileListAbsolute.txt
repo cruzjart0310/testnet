@@ -1,0 +1,7 @@
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Datos\bin\Debug\Datos.dll
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Datos\bin\Debug\Datos.pdb
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Datos\bin\Debug\Entidad.dll
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Datos\bin\Debug\Entidad.pdb
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Datos\obj\Debug\Datos.dll
+C:\Users\Rayban\Documents\Visual Studio 2013\Projects\WebFormsTest\Datos\obj\Debug\Datos.pdb
